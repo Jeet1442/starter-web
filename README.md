@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
+
 Intro to git and git hub
 
 ## Purpose
